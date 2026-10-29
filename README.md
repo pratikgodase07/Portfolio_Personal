@@ -94,10 +94,7 @@
 | **01** | **TrackNStore** | Inventory management system with real-time stock tracking, RESTful APIs, role-based authentication (Admin/User) and automated updates that cut manual stock errors by 30% | Java 17, Spring Boot 2.x, Angular 16, MySQL 8.x |
 | **02** | **College Hostel Management System** | Web platform for hostel operations and student records, with automated room allocation and admin workflows | HTML, CSS, PHP 8.x, MySQL 8.x |
 | **03** | **Deepfake Detection System** | Detects manipulated images and videos using CNN models for frame-level analysis and classification | Python 3.x, CNN, React 18 |
-| **04** | **Shreepad Goshala** | E-commerce storefront for an A2 Gir cow sanctuary in Pandharpur | React, Vite |
-| **05** | **Two Brothers India Farms** | A calm, product-led homepage for a farm brand | React, Vite |
-| **06** | **Sign Language AI** | Real-time hand gestures turned into text and speech | Python, OpenCV |
-| **07** | **Billing Software** | Invoicing with automated tax calculation and print-ready bills | Python |
+
 
 ---
 
@@ -106,7 +103,7 @@
 | When | What |
 |---|---|
 | **Feb – Aug 2025** | **Java Full Stack Training**, Kiran Academy, Pune (Remote). Java, JSP, Servlets, Spring Boot and Hibernate. MVC, JDBC and REST API development, plus mini projects. |
-| **Olympus 2K24** | **Treasurer & Head of Events**, Pandharpur. Managed event budgets, collected over ₹20,000 in entry fees and organised hackathons. |
+
 | **Nov 2022 – Jan 2023** | **Web Development Training**, Softech Coders Online. HTML, CSS, JavaScript and SQL CRUD. |
 | **2021 – 2025** | **B.Tech, Computer Science & Engineering**, SVERI College of Engineering, Pandharpur. CGPA 8.03. |
 | **2018 – 2020** | **Higher Education**, S.E.S. Jr College of Arts and Science, Solapur. 64.15%. |
